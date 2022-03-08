@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a web designer, visual artist, and graphic artist residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand and learn as a web designer and visual artist. I enjoy combining animation with UI experiences. My goal as a designer is to create experiences that are dynamic and engaging for the user. You can check out my artist website at www.vanessawithun.com and my graphic design website at https://vanessa555withun.myportfolio.com/.
+My name is Vanessa Withun. I am web designer, visual artist, and graphic artist residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand and learn as a web designer and visual artist. I enjoy combining animation with UI experiences. My goal as a designer is to create experiences that are dynamic and engaging for the user. You can check out my artist website at www.vanessawithun.com and my graphic design website at https://vanessa555withun.myportfolio.com/.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iNeso1984)](https://github.com/iNeso1984/github-readme-stats)
 

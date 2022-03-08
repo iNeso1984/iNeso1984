@@ -2,11 +2,11 @@
 #### I am a visual artist + graphic and web designer
 ![I am a visual artist + graphic and web designer](https://pbs.twimg.com/profile_banners/1501252960721911808/1646762301/1080x360)
 
-I am web designer, visual artist, and graphic artist residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand and learn as a web designer and visual artist. I enjoy combining animation with UI experiences. My goal as a designer is to create experiences that are dynamic and engaging for the user. You can check out my artist website at www.vanessawithun.com and my graphic design website at https://vanessa555withun.myportfolio.com/.
+I am web designer, visual artist, and graphic artist residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand my work and learn as a web designer and visual artist. I enjoy combining animation and graphics with UI experiences. My goal as a designer is to create experiences that are dynamic and engaging for the user. You can check out my artist website at www.vanessawithun.com and my graphic design website at https://vanessa555withun.myportfolio.com/.
 
 Skills:  Adobe Suite Products / REACT / JS / HTML / CSS / Bootstrap / WordPress / Blender 
 
-- 🌱 I’m currently learning React. 
+- 🌱 I’m currently learning React and Unity. 
 - 📫 How to reach me: www.vanesawithunweb@gmail.com 
 
 

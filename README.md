@@ -9,7 +9,7 @@ Skills:  Adobe Suite Products / REACT / JS / CSS-Grid/ Bootstrap / WordPress / B
 
 
 
-- 🌱 I’m currently learning React and Unity. 
+- 🌱 I’m currently learning with Vets Who Code, React, and Unity. 
 - 📫 How to reach me: www.vanesawithunweb@gmail.com 
 
 

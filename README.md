@@ -5,7 +5,7 @@
 I am **web designer, visual artist, and graphic artist** residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand my work and learn as a web designer and visual artist. I enjoy combining animation and graphics with UI experiences. My goal as a designer is to create experiences that are dynamic and engaging for the user. You can check out my [artist website](https://vanessawithun.com/) and my [graphic design website](https://vanessa555withun.myportfolio.com/).
 
 
-Skills:  Adobe Suite Products / REACT / JS / HTML5/ CSS / Bootstrap / WordPress / Blender 
+Skills:  Adobe Suite Products  JS / HTML5/ CSS / Bootstrap / SEO/ UI/UX / WordPress / Blender / Typography / Accessibility
 
 
 

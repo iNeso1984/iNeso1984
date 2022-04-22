@@ -1,15 +1,15 @@
 ### Hello 👋, my name is Vanessa Withun
-#### I am a visual artist + web development student + graphic & web designer
+#### I am a visual artist + front-end developer + graphic & web designer
 ![I am a visual artist + graphic and web designer](https://pbs.twimg.com/profile_banners/1501252960721911808/1646762301/1080x360)
 
-I am **web designer, visual artist, and graphic artist** residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand my work and learn as a web designer and visual artist. I enjoy combining animation and graphics with UI experiences. My goal as a designer is to create experiences that are dynamic and engaging for the user. You can check out my [artist website](https://vanessawithun.com/) and my [graphic design website](https://vanessa555withun.myportfolio.com/).
+I am **web designer, visual artist, and graphic artist** residing in Jacksonville, FL. I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand my work and learn as a web designer and visual artist. I enjoy combining animation and graphics with UI experiences. My goal as a web designer is to create experiences that are dynamic and engaging for the user using a variety of tools and frameworks. You can check out my [artist website](https://vanessawithun.com/) and my [graphic design website](https://vanessa555withun.myportfolio.com/).
 
 
 Skills:  Adobe Suite Products  JS / HTML5/ CSS / Bootstrap / SEO/ UI/UX / WordPress / Blender / Typography / Accessibility
 
 
 
-- 🌱 I’m currently learning with Vets Who Code, React, and Unity. 
+- 🌱 I’m currently learning React and Next.js 
 - 📫 How to reach me: www.vanesawithunweb@gmail.com 
 
 

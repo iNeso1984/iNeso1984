@@ -1,6 +1,6 @@
 ### Hello 👋, my name is Vanessa Withun
 #### I am front-end developer, visual artist, and graphics designer
-
+![banner](https://media-exp1.licdn.com/dms/image/C4E16AQEeVX5e8BamHg/profile-displaybackgroundimage-shrink_350_1400/0/1659362397231?e=1665014400&v=beta&t=1BGj-SmlyzlIBMjDtfptoBbfwov2BIes8mlcOxxDhNU)
 
 I believe that great design is observable in our every day life, especially in nature. I am **web designer, visual artist, and graphic artist**.I have been painting for over six years and have exhibited my artwork throughout the United States. I also have a background in Environmental Science and English. I'm always looking to expand my work and learn more about web development and computer programming. My goal as a web developer is to explore and create new experiences that are dynamic and engaging for the user using a variety of tools and frameworks. You can check out my [artist website](https://vanessawithun.com/) and my [graphic design website](https://vanessa555withun.myportfolio.com/).
 

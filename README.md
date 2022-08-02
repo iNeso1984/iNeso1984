@@ -9,7 +9,7 @@ Skills:  Adobe Suite Products/React/Node/Bootstrap/SEO/UI/UX/Accessibility
 
 
 
-- 🌱 I’m currently learning Express Node.js, AI, Azure, and Python
+- 🌱 I’m currently learning Express Node.js, Typescript, and MySQL
 - 📫 How to reach me: www.vanesawithunweb@gmail.com 
 
 

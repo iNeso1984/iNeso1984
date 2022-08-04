@@ -5,7 +5,7 @@
 [artist website](https://vanessawithun.com/) and my [graphic design website](https://vanessa555withun.myportfolio.com/).
 
 
-Skills:  JS/HTML5/CSS/Next.Js/Node/React/WordPress/Bootstrap/SEO/UI & UX Design/Wireframing/Accessibility/Graphic Design/Adobe Suites
+Skills:  JS/HTML5/CSS/React/Next.js/Node/WordPress/Bootstrap/SEO/UI & UX Design/Wireframing/Accessibility/Graphic Design/Adobe Suites
 
 
 

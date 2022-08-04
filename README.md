@@ -9,8 +9,7 @@ Skills:  JS/HTML5/CSS/Next.Js/Node/React/WordPress/Bootstrap/SEO/UI & UX Design/
 
 
 
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: www.vanesawithunweb@gmail.com 
+- 📫 How to reach me: www.vanessa555withun@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iNeso1984)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vanessa_withun_art/)  

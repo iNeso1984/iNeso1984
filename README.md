@@ -2,7 +2,7 @@
 #### I am front-end developer, visual artist, and graphics designer experienced with React,Node, Next.Js, JS, HTML5, and CSS. 
 ![banner](https://cdn.myportfolio.com/09ab80af-6638-485d-9a0e-fc8b193a105a/f7d9d1c4-36d9-4db5-8537-a0ad6cc029fe_rw_1920.png?h=8410061e1ef749de921a24a25e4ef2e6)
 
-[artist website](https://vanessawithun.com/) and my [graphic design website](https://vanessa555withun.myportfolio.com/).
+[Design Portfolio](https://vanessa555withun.myportfolio.com/).
 
 
 Skills/Languages:  JS/HTML5/CSS/React/Next.js/Node/API/WordPress/Bootstrap/SEO/UI & UX Design/Wireframing/Accessibility/Graphic Design/Adobe Suites

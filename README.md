@@ -1,11 +1,13 @@
 # Hello 👋, my name is Vanessa Withun
 
-#### I am a Web Developer, Designer, and Artist interested in Visual Design, Data Science, and ML. I am experienced in both Front-end and Back-end web development and enjoy creating designs and websites that are both useful and visually impactful.
+#### I am a Web Developer, Designer, and Artist interested in combining Visual Design, Data Science, and ML. I am experienced in both Front-end and Back-end web development and enjoy creating visually impactful designs.
 
 ![banner](https://cdn.myportfolio.com/4bebed9a-4022-46fc-83ca-66924fac1685/dc2a729d-c0b5-42c8-8ffe-4468e7b91541_rw_1920.png?h=5b049a55d6e569e2c003584c7701a0c5)
 
----
 
+
+---
+<br>
 
 ## Skills/Languages
 
@@ -29,13 +31,19 @@
   <img src="https://img.shields.io/badge/Adobe%20Suites-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suites" />
 </div>
 
+<br>
+<br>
+
 ---
 
 ## How to reach me:
+<br>
 
 - 📧 [Email]( www.vanessa555withun@gmail.com)
 - 💻 [Website](https://vanessawithun.com/)
 - 🎨 [Design Portfolio](https://vanessa555withun.myportfolio.com/)
+<br>
+<br>
 
 ---
 

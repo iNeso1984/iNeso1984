@@ -9,20 +9,25 @@
 
 ## Skills/Languages
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- ![MLOPS](https://img.shields.io/badge/MLOPS-FF6600?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white) 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![REST API](https://img.shields.io/badge/REST%20API-232F3E?style=for-the-badge&logo=api&logoColor=white) 
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-- ![SEO Optimization](https://img.shields.io/badge/SEO%20Optimization-00C853?style=for-the-badge&logo=google&logoColor=white) 
-- ![Accessibility](https://img.shields.io/badge/Accessibility-4d4d4d?style=for-the-badge&logo=accessibility&logoColor=white) 
-- ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF5722?style=for-the-badge&logo=adobe&logoColor=white)
-- ![Adobe Suites](https://img.shields.io/badge/Adobe%20Suites-FF0000?style=for-the-badge&logo=adobe&logoColor=white) 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MLOPS-FF6600?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="MLOPS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/REST%20API-232F3E?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SEO%20Optimization-00C853?style=for-the-badge&logo=google&logoColor=white" alt="SEO Optimization" />
+  <img src="https://img.shields.io/badge/Accessibility-4d4d4d?style=for-the-badge&logo=accessibility&logoColor=white" alt="Accessibility" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-FF5722?style=for-the-badge&logo=adobe&logoColor=white" alt="Graphic Design" />
+  <img src="https://img.shields.io/badge/Adobe%20Suites-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Suites" />
+</div>
 
 ---
 

@@ -1,6 +1,6 @@
-# Hello 👋, my name is Vanessa Withun
+# Hello 👋🏽, my name is Vanessa Withun 
 
-#### I am a Web Developer and Artist interested in combining Visual Design, Data Science, and ML. I am experienced in both Front-end and Back-end web development and enjoy creating visually impactful designs and learning content.
+#### I am a Software Develope and Artist specialized in Visual Design, Big Data, and ML. I am experienced in both Front-end and Back-end web development and enjoy creating visually impactful designs and learning content. I am currently immersed in Deep Learning, MLOPS, Cloud Engineering, and Data Visualization concepts. 
 
 ![banner](https://cdn.myportfolio.com/4bebed9a-4022-46fc-83ca-66924fac1685/dc2a729d-c0b5-42c8-8ffe-4468e7b91541_rw_1920.png?h=5b049a55d6e569e2c003584c7701a0c5)
 
@@ -9,11 +9,15 @@
 ---
 <br>
 
-## Skills/Languages
-
+## Skills/Languages 👩🏽‍💻
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MLOPS-FF6600?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="MLOPS" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-1F425F?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -41,7 +45,7 @@
 
 - 📧 [Email]( www.vanessa555withun@gmail.com)
 - 💻 [Website](https://vanessawithun.com/)
-- 🎨 [Design Portfolio](https://vanessa555withun.myportfolio.com/)
+
 <br>
 <br>
 

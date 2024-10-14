@@ -2,7 +2,7 @@
 
 #### I am a Software Developer and Artist specialized in Visual Design, Big Data, and ML, pursuing a graduate degree in CS and ML. I am experienced in both Front-end and Back-end web development and enjoy creating visually impactful designs and learning content. I am currently immersed in Deep Learning, MLOPS, AI, and Data Engineering. 
 
-![banner]([https://vanessawithun.com/wp-content/uploads/2024/10/BG-art_edited.png])
+![banner](https://vanessawithun.com/wp-content/uploads/2024/10/BG-art_edited.png)
 
 
 
